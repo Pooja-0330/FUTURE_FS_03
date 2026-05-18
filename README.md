@@ -1,68 +1,67 @@
-# 🍽️ Tasty Bites Restaurant Website
+# 🍽️ Real Business Website – Restaurant Website
 
-## 📌 Project Overview
-This project is developed as part of the **Future Interns Full Stack Web Development Internship – Task 3**.
+This is a modern and responsive Restaurant Business Website developed as part of my Full Stack Web Development Internship at Future Interns.
 
-The goal of this project is to build a professional website for a local restaurant business and showcase how a modern website can help attract more customers and improve online presence.
+The project is designed for a local restaurant business to improve online presence, showcase menu items, and allow customers to explore services easily.
 
 ---
 
-# 🚀 Features
-- Responsive Restaurant Website
-- Attractive Homepage
+# 🚀 Live Website
+
+http://127.0.0.1:5500/t3.html
+
+---
+
+# 📂 GitHub Repository
+https://github.com/Pooja-0330/FUTURE_FS_03
+
+---
+
+# ✨ Features
+- Responsive Modern UI
+- Attractive Home Page
 - Food Menu Section
-- About Us Section
-- Contact Form
-- Mobile Friendly Design
+- About Restaurant Section
+- Table Reservation Form
+- Contact Information
+- Google Maps Integration
+- Mobile Responsive Design
 - Smooth Navigation
+- Interactive User Experience
 
 ---
 
-# 🛠️ Technologies Used
+# 🛠 Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 
 ---
 
-# 📂 Project Structure
-```bash
-index.html
-style.css
-script.js
-```
-
----
-
-# 🌐 Live Demo
-Add your live website link here:
-
-```bash
-https://yourusername.github.io/FUTURE_FS_03/
-```
-
----
-
-# 💻 GitHub Repository
-Add your repository link here:
-
-```bash
-https://github.com/yourusername/FUTURE_FS_03
-```
-
----
-
-# 🎯 Purpose of This Website
-This website helps the restaurant business by:
-- Increasing online visibility
-- Displaying menu and services professionally
-- Helping customers contact the restaurant easily
-- Improving customer engagement
-
----
-
 # 📸 Screenshots
-Add screenshots of your website here.
+
+home.png
+menu.png
+about.png
+reserve table.png
+contact.png
+
+---
+
+# 🎯 Purpose of This Project
+This Restaurant Business Website was developed to:
+- Improve online visibility for local businesses
+- Provide restaurant information digitally
+- Showcase food menu and services
+- Practice frontend web development skills
+- Build real-world business website experience
+
+It helps restaurants connect with customers professionally through an attractive online platform.
+
+---
+
+# 📧 Contact
+Email: adaripooja8@gmail.com
 
 ---
 
@@ -70,5 +69,3 @@ Add screenshots of your website here.
 Pooja Adari
 
 Future Interns – Full Stack Web Development Internship
-
----
