@@ -8,8 +8,7 @@ The project is designed for a local restaurant business to improve online presen
 
 # 🚀 Live Website
 
-http://127.0.0.1:5500/t3.html
-
+https://pooja-0330.github.io/FUTURE_FS_03/
 ---
 
 # 📂 GitHub Repository
